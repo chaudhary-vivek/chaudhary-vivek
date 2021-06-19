@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chaudhary-vivek
-- 👀 I’m interested in stochastic optimization and meta heuristics.
-- 🌱 I’m currently learning python and c++
-- 💞️ I’m looking to collaborate on particle swarm and genetic algorithm.
+- 👀 I’m interested in geometry, murmurations , and the gemetry of murmurations.
+- 🌱 I’m currently learning python and c++ for stochastic optimization.
 - 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
 
 <!---
