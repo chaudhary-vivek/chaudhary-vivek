@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaudhary-vivek
-- 👀 I’m interested in geometry, murmurations , and the geometry of murmurations.
-- 🌱 I’m currently learning python and r for demand planning.
+- 👀 I’m interested in operations research.
+- 🌱 I’m currently learning python.
 - 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
 
 <!---
