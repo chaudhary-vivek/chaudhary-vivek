@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chaudhary-vivek
-- 👀 I’m interested in operations research.
+- 👀 I’m interested in combinatorial optimization and graph theory
 - 🌱 I’m currently learning python.
 - 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
-- 📝 https://www.vivek-v-chaudhary.medium.com/
+- 📝 https://vivek-chaudhary.com/research.html
 
 
 <!---
