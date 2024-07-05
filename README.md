@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @chaudhary-vivek
 - 👀 I’m interested in combinatorial optimization and graph theory
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Rust.
 - 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
 - 📝 https://vivek-chaudhary.com/research.html
+- 🔬 https://mothlaboratory.com/
 
 
 <!---
