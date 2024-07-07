@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @chaudhary-vivek
 - 📖 I’m interested in Operations Research
 - 🦀 I’m currently learning Rust.
-- 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
 - 👨🏻‍💻 https://vivek-chaudhary.com/research.html
 - 🔬 https://mothlaboratory.com/
+- 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
+
 
 
 <!---
