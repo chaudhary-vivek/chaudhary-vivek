@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @chaudhary-vivek
-- 📖 I’m interested in Causal Statistics
-- 🦀 I’m currently learning Rust
+- 📖 I’m interested in Combinatorial Optimization
 - 👨🏻‍💻 https://vivek-chaudhary.com/research.html
 - 🔬 https://mothlaboratory.com/
 - 📫 https://www.linkedin.com/in/vivek-chaudhary-b2b6b416a/
